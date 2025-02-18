@@ -18,7 +18,7 @@ output application/json
 ---
 {
 	"message": "This is my first app to deploy automatically",
-	"status code": "200"
+	"status code": "201"
 }]]></ee:set-payload>
 			</ee:message>
 		</ee:transform>
